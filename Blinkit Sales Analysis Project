@@ -1,0 +1,32 @@
+Business Requirement
+The goal is to:
+Understand Blinkit’s total and average sales.
+Analyze item-wise inventory movement.
+Monitor customer satisfaction through ratings.
+Break down metrics by outlet size, type, and location.
+
+✅ KPI Requirements
+KPI	Description
+Total Sales	The overall revenue generated from all items sold.
+Average Sales	The average revenue per sale.
+Number of Items	The total count of different items sold.
+Average Rating	The average customer rating for items sold.
+
+🧩 Project Steps
+1. ✅ Requirement Gathering / Business Requirements
+2. ✅ Data Walkthrough
+3. ✅ Data Connection
+4. ✅ Data Cleaning / Quality Check
+5. ✅ Data Modeling
+6. ✅ Data Processing
+7. ✅ DAX Calculations
+8. ✅ Dashboard Layout Design
+9. ✅ Chart Development and Formatting
+10. ✅ Dashboard / Report Development
+11. ✅ Insights Generation
+
+🛠 Tools Used
+Power BI for data visualization and reporting
+DAX for custom measures and KPIs
+Excel / CSV (assumed for data source)
+
